@@ -9,8 +9,8 @@ and reporting endpoints for usage insights.
 - Data + backend fundamentals: SQL schema, seeded demo dataset, REST API design
 - Reproducibility: one-command Docker Compose setup + smoke tests
 
-## Demo video
-📽️ Google Drive: https://drive.google.com/file/d/1BmctdbIieSra4D_9ndHbjSyeqEBc6Wns/view?usp=sharing
+## Interactive demo (Supademo)
+https://app.supademo.com/demo/cmijop4g8fpfkb7b4p97wddef?step=10
 
 ## Quickstart (Docker)
 Prereqs: Docker Desktop
