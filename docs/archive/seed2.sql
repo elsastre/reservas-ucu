@@ -1,0 +1,1 @@
+-- Seed legacy deshabilitado. Usa sql/seed_demo.sql para datos de prueba.
