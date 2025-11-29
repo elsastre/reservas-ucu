@@ -1,1 +1,3 @@
 ﻿* text=auto
+src/templates/* linguist-vendored
+src/static/* linguist-vendored
